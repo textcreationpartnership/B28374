@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Butler's tale: representing the state of the wooll-case, or the East-India case truly stated.</title>
+            <author>Butler, Prince.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28374</idno><idno type="EEBO-CITATION">99883252</idno>
+  <idno type="VID">186325</idno>
+  <idno type="EEBO-PROQUEST">2248520503</idno>
+  
+            <idno type="OCLC"> 12732751</idno>
+            <idno type="STC">Wing P3481</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[127]</idno>
+            <idno type="STC">ESTC R20107</idno>
+            <idno type="PROQUEST">ocm99883252</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883252e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186325)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[122])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Butler's tale: representing the state of the wooll-case, or the East-India case truly stated.</title>
+                  <author>Butler, Prince.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by A. Baldwin in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Export controls --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">East India Company --  Administration --  Early works to 1800.</term>
+               <term type="geographic_name">England and Wales --  Commerce --  India --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div n="1" type="part">
+                  <pb facs="tcp:186325:1"/>
+                  <head>
+                     <hi>Prince Butler</hi>'s <hi>Tale:</hi> REPRESENTING The State of the <hi>Wooll-Case,</hi> or the <hi>East-India Case</hi> truly Stated.</head>
+                  <div type="argument">
+                     <head>The Argument.</head>
+                     <head type="sub">Part I.</head>
+                     <lg>
+                        <l>Shews why in <hi>Dogrel</hi> Verse this <hi>Tale</hi>
+                        </l>
+                        <l>Was first begun o'r Pot of <hi>Ale;</hi>
+                        </l>
+                        <l>Shews <hi>Rise,</hi> and <hi>Progress</hi> of the Trade</l>
+                        <l>To <hi>India</hi> drove, and <hi>Who</hi> 'twas made</l>
+                        <l>The first steps to our <hi>Wooll</hi> Trades ruin,</l>
+                        <l>And how it prov'd to <hi>Folks</hi> undoing;</l>
+                        <l>What done to stop its further growth,</l>
+                        <l>And how those <hi>Measures</hi> came to nought;</l>
+                        <l>How <hi>Golden Fleece</hi> lay very dead;</l>
+                        <l>How <hi>Act for Burying</hi> it was made;</l>
+                        <l>And how, if we were <hi>truly</hi> Wise,</l>
+                        <l>We should their <hi>Trangums</hi> all despise;</l>
+                        <l>Our <hi>Money</hi> save, <hi>Employ</hi> our Poor,</l>
+                        <l>From <hi>starving</hi> keep, and from our Door;</l>
+                        <l>Who then cou'd drink, Some <hi>Ale,</hi> Some <hi>Sherry,</hi>
+                        </l>
+                        <l>And <hi>Laugh,</hi> and <hi>Quaff,</hi> and all be merry.</l>
+                     </lg>
+                  </div>
+                  <div type="prologue">
+                     <head>PROLOGUE.</head>
+                     <lg>
+                        <l>IN place, one day, as I was standing,</l>
+                        <l>Where folks were printed Papers handing</l>
+                        <l>To those that wou'd, or read, or buy 'em,</l>
+                        <l>These <hi>Remarks</hi> made, as I stood nigh 'em:</l>
+                        <l>I <hi>saw,</hi> a mighty, <hi>zealous</hi> Crew,</l>
+                        <l>Some for <hi>Old Stock,</hi> and some for <hi>New,</hi>
+                        </l>
+                        <l>Were <hi>Pro</hi> and <hi>Conning</hi> their hard Cases,</l>
+                        <l>By the chief <hi>Dons</hi> of several Classes,</l>
+                        <l>'Mongst which <hi>Grandees</hi> I sometimes fell in,</l>
+                        <l>And heard most <hi>dismal Stories</hi> telling;</l>
+                        <l>The one, the other, much Arraign'd,</l>
+                        <l>And <hi>credit</hi> of their Causes stain'd.</l>
+                        <l>Thus having heard each side complain,</l>
+                        <l>Methoughts, 'mongst both, were <hi>K—s</hi> in grain:</l>
+                        <l>And that when such, fall out and scold,</l>
+                        <l>An Injur'd <hi>Case</hi> might then be told:</l>
+                        <l>And on the Old Proverb made me think,</l>
+                        <l>The more they stir, the more they stink;</l>
+                        <l>And did conclude from all these Hearings,</l>
+                        <l>
+                           <hi>There's neither Barrel better Herrings.</hi>
+                        </l>
+                        <l>I <hi>saw</hi> a <hi>Case,</hi> concerning Wooll,</l>
+                        <l>With Reasons stuft, both <hi>clear</hi> and full;</l>
+                        <l>Which plainly shew'd our <hi>certain</hi> ruin,</l>
+                        <l>These <hi>mighty Talkers</hi> were pursuing,</l>
+                        <l>Yet <hi>saw,</hi> that many, at first sight on't,</l>
+                        <l>There were, that made but very light on't,</l>
+                        <l>And found there were but <hi>few</hi> attend it,</l>
+                        <l>But <hi>very few</hi> that wou'd defend it;</l>
+                        <l>
+                           <hi>Amaz'd</hi> I stood, and <hi>much</hi> dejected,</l>
+                        <l>So great a <hi>Cause</hi> should be neglected.</l>
+                        <l>Soon after that, I <hi>saw,</hi> with vigour,</l>
+                        <l>Verses <hi>catch'd</hi> up, 'bout fight of <hi>Tyger,</hi>
+                        </l>
+                        <l>By <hi>Old</hi> and <hi>Young,</hi> by <hi>Fools</hi> and <hi>Witty,</hi>
+                        </l>
+                        <l>And by the great <hi>Dons</hi> of the <hi>City.</hi>
+                        </l>
+                        <l>Thought I, this <hi>Case,</hi> if I should write,</l>
+                        <l>In such a manner, Folks would buy't,</l>
+                        <l>And read, for sake of <hi>Dogrel</hi> Rhime,</l>
+                        <l>Which Thought improv'd; I lost no time,</l>
+                        <l>But presently, o'er Pot of <hi>Ale,</hi>
+                        </l>
+                        <l>Writ a great part of this sad <hi>Tale,</hi>
+                        </l>
+                        <l>Which, if you like, you may have more on't,</l>
+                        <l>For I now have, or shall, have store on't.</l>
+                     </lg>
+                  </div>
+                  <div type="story_proper">
+                     <head>The Tale.</head>
+                     <lg>
+                        <l>WHen first the <hi>Indian</hi> Trade began,</l>
+                        <l>And Ships beyond the <hi>Tropicks</hi> ran,</l>
+                        <l>In quest of various <hi>Drugs</hi> and <hi>Spices,</hi>
+                        </l>
+                        <l>And sundry other <hi>strange</hi> Devices,</l>
+                        <l>
+                           <hi>
+                              <gap reason="illegible" extent="2 words">
+                                 <desc>〈◊◊〉</desc>
+                              </gap>
+                           </hi> and like Trading.</l>
+                        <l>
+                           <gap reason="illegible" extent="1 line">
+                              <desc>〈1 line〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <hi>Bengals,</hi> and <hi>Silks,</hi> of <hi>Indians</hi> making,</l>
+                        <l>Our <hi>Merchants</hi> then refus'd to take in,</l>
+                        <l>Knowing it wou'd their Country <hi>ruin,</hi>
+                        </l>
+                        <l>And might prove to their <hi>own</hi> undoing.</l>
+                        <l>Nor did they carry <hi>Gold</hi> or <hi>Bullion,</hi>
+                        </l>
+                        <l>To fetch home what Supplants our <hi>Woollen;</hi>
+                        </l>
+                        <l>Nor were this <hi>Nation</hi> fond to wear</l>
+                        <l>Such <hi>Indian</hi> Toys, which cost so dear:</l>
+                        <l>Then were we clad in <hi>Woollen</hi> Stuffs,</l>
+                        <l>With <hi>Cambrick</hi> Bands, and <hi>Lawn</hi> Ruffs,</l>
+                        <l>Or else in <hi>Silk,</hi> which was Imported</l>
+                        <l>For <hi>Woollen</hi> Goods, which we Exported;</l>
+                        <l>Which <hi>Silk</hi> our <hi>English</hi> Weavers bought,</l>
+                        <l>And into various Figures wrought.</l>
+                        <l>Then scarce a <hi>Child</hi> was to be seen,</l>
+                        <l>Without <hi>Say</hi> Frock, that was of green,</l>
+                        <l>Our <hi>Hangings, Beds,</hi> our <hi>Coats,</hi> and <hi>Gowns,</hi>
+                        </l>
+                        <l>Made of our <hi>Wooll</hi> in Clothing Towns.</l>
+                        <l>This Nation then was <hi>Rich</hi> and <hi>Wealthy,</hi>
+                        </l>
+                        <l>And in a State which we call'd healthy.</l>
+                     </lg>
+                     <lg>
+                        <l>But since the Men of <hi>Gath</hi> arose,</l>
+                        <l>And for their Chief <hi>Goliah</hi> chose.</l>
+                        <l>And since that mighty Giants Reign,</l>
+                        <l>Whose chiefest <hi>Aim</hi> was private Gain,</l>
+                        <l>This Trade was drove on by such measures,</l>
+                        <l>As soon <hi>Exhausted</hi> much our Treasures,</l>
+                        <l>For then our <hi>chiefest Artists</hi> went</l>
+                        <l>With <hi>Patterns,</hi> and with <hi>Money</hi> sent,</l>
+                        <l>To make and purchase <hi>Indian</hi> Ware,</l>
+                        <l>For which this Nation pays full dear.</l>
+                        <l>Then by great Gifts of <hi>finest</hi> touches,</l>
+                        <l>To <hi>Lords</hi> and <hi>Ladies, Dukes</hi> and <hi>Duchess,</hi>
+                        </l>
+                        <l>So far prevail'd, as set the fashion,</l>
+                        <l>Which <hi>Plague</hi>-like soon spread o'r the Nation.</l>
+                        <l>Our <hi>Ladies</hi> all were set a gadding,</l>
+                        <l>After these Toys they ran a madding;</l>
+                        <l>And nothing then wou'd please their fancies,</l>
+                        <l>Nor <hi>Dolls,</hi> nor <hi>Joans,</hi> nor wanton <hi>Nancies,</hi>
+                        </l>
+                        <l>Unless it was of <hi>Indians</hi> making;</l>
+                        <l>And if 'twas so, 'twas <hi>wondrous</hi> taking.</l>
+                        <l>This <hi>Antick</hi> humour so prevail'd,</l>
+                        <l>Tho' many 'gainst it <hi>greatly</hi> rail'd,</l>
+                        <l>'Mongst all degrees of <hi>Female</hi> kind,</l>
+                        <l>That nothing else could please their mind.</l>
+                        <l>Tell 'em the following of such fashion,</l>
+                        <l>Wou'd <hi>beggar</hi> and <hi>undo</hi> the Nation,</l>
+                        <l>And <hi>ruin</hi> all our Labouring Poor,</l>
+                        <l>That must, or <hi>starve,</hi> or beg at door,</l>
+                        <l>They'd not at all regard your story,</l>
+                        <l>But in their <hi>painted</hi> Garments glory;</l>
+                        <l>And such as were not <hi>Indian</hi> proof,</l>
+                        <l>They <hi>scorn'd,</hi> despis'd, as paltry Stuff:</l>
+                        <lg>
+                           <pb facs="tcp:186325:2"/>
+                           <l>This humour <hi>strangely</hi> thus prevailing,</l>
+                           <l>Set all the <hi>poorer</hi> sort a railing,</l>
+                           <l>Or else with <hi>grief</hi> their Case bewailing.</l>
+                        </lg>
+                        <l>The <hi>richer</hi> seeing what was doing,</l>
+                        <l>And how the <hi>Nation</hi> ran to <hi>ruin,</hi>
+                        </l>
+                        <l>To <hi>King</hi> in Council did complain,</l>
+                        <l>In time of <hi>Charles</hi> the Second's Reign,</l>
+                        <l>On which were several <hi>Lords</hi> appointed,</l>
+                        <l>By him who was the Lords Anointed,</l>
+                        <l>To hear the Case, and <hi>sad</hi> Complainings,</l>
+                        <l>Of those that <hi>Then</hi> were for Restrainings;</l>
+                        <l>Who <hi>plainly</hi> did their Lordships tell,</l>
+                        <l>What <hi>mischiefs</hi> to our Trade befel;</l>
+                        <l>How both our <hi>Men</hi> and <hi>Bullion</hi> went</l>
+                        <l>To work in <hi>India,</hi> and be spent</l>
+                        <l>In needless <hi>Toys,</hi> and gawdy <hi>Dresses,</hi>
+                        </l>
+                        <l>For <hi>Ladies, Madams, Trulls,</hi> and <hi>Misses.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>The <hi>Case</hi> thus heard, they were inclin'd</l>
+                        <l>Some proper Remedy to find;</l>
+                        <l>And something was in order doing,</l>
+                        <l>To put a stop to further <hi>ruin,</hi>
+                        </l>
+                        <l>But by the <hi>Craft</hi> of great <hi>Goliah,</hi>
+                        </l>
+                        <l>Who all the <hi>Host</hi> stood in defy-a.</l>
+                        <l>There is this <hi>story</hi> passing Current,</l>
+                        <l>That say 'twas he that stopt this torrent,</l>
+                        <l>By pouring <hi>Gold</hi> in plenteous showers,</l>
+                        <l>In <hi>Ladies</hi> Laps, who bore great Powers,</l>
+                        <l>Which <hi>strangely</hi> alter'd all their Measures,</l>
+                        <l>Such <hi>charms</hi> there are in hidden Treasures.</l>
+                        <l>Thus <hi>Barrocading</hi> all Complaints,</l>
+                        <l>Drove <hi>Iehu</hi>-like, without Restraints</l>
+                        <l>Fill'd <hi>Town</hi> and <hi>Country</hi> soon so full,</l>
+                        <l>As <hi>ruin'd</hi> much, our Trade in <hi>Wooll:</hi>
+                        </l>
+                        <l>And such <hi>great</hi> Stocks of <hi>Wooll</hi> and <hi>Cloths,</hi>
+                        </l>
+                        <l>Were hoarded up, and eat by <hi>Moths,</hi>
+                        </l>
+                        <l>Made <hi>Clothiers</hi> all, and <hi>Growers</hi> grumble,</l>
+                        <l>When Cloathes and Fleeces o'r they tumbl'd.</l>
+                        <l>And further mischiefs to prevent,</l>
+                        <l>
+                           <hi>Complaint</hi> was made in Parliament:</l>
+                        <l>And 'cause the <hi>Wooll,</hi> so near affected,</l>
+                        <l>This <hi>Salvo</hi> for't was then projected,</l>
+                        <l>That since the Living would not bear it,</l>
+                        <l>They should, when <hi>dead,</hi> be forc'd to wear it;</l>
+                        <l>This help'd in part, but the <hi>Grand Ill</hi>
+                        </l>
+                        <l>Remains upon the Kingdom still.</l>
+                        <l>Yet this our <hi>Ladies</hi> so offended,</l>
+                        <l>As all our Female Sex contended,</l>
+                        <l>And <hi>fain</hi> would had this <hi>Act</hi> rejected,</l>
+                        <l>But then their Councels were neglected,</l>
+                        <l>And Time has reconcil'd it so,</l>
+                        <l>To this <hi>Wooll Act</hi> they're now no Foe:</l>
+                        <l>So that from <hi>Ladies</hi> great, to Skullion,</l>
+                        <l>All buried lay in our own <hi>Woollen.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>And <hi>happy</hi> thrice would <hi>England</hi> be,</l>
+                        <l>If, while their Living, we could see,</l>
+                        <l>Our <hi>noble Ladies</hi> but beginning,</l>
+                        <l>To wear our <hi>Wooll</hi> of <hi>finest</hi> Spinning,</l>
+                        <l>Or in such <hi>Silks</hi> our Workmen make,</l>
+                        <l>For which our <hi>Merchants</hi> Cloth do take,</l>
+                        <l>Which soon wou'd bring them in such fashion,</l>
+                        <l>As they'd be worn throughout this Nation,</l>
+                        <l>By all <hi>Degrees,</hi> and <hi>Sex,</hi> and <hi>Ages,</hi>
+                        </l>
+                        <l>From highest <hi>Peers</hi> to lowest <hi>Pages;</hi>
+                        </l>
+                        <l>Nor would the meanest <hi>Trull</hi> or <hi>Besses,</hi>
+                        </l>
+                        <l>Delight to wear these <hi>Indian</hi> Dresses,</l>
+                        <l>Which certainly wou'd <hi>Profit</hi> bring,</l>
+                        <l>To <hi>them,</hi> their <hi>Tenants,</hi> and our <hi>King,</hi>
+                        </l>
+                        <l>And <hi>Heavn's</hi> Blessings in the bargain,</l>
+                        <l>Because they'll keep our <hi>Poor</hi> from starving,</l>
+                        <l>For they wou'd soon be then employ'd;</l>
+                        <l>Our <hi>Money</hi> too at <hi>Home</hi> wou'd 'bide,</l>
+                        <lg>
+                           <l>And <hi>happy</hi> then both <hi>great</hi> and <hi>small,</hi>
+                           </l>
+                           <l>With Mirth in <hi>Parlour,</hi> and in <hi>Hall,</hi>
+                           </l>
+                           <l>When thus, with Plenty, <hi>Beards</hi> wagg all.</l>
+                        </lg>
+                     </lg>
+                  </div>
+                  <div type="epilogue">
+                     <head>EPILOGUE.</head>
+                     <lg>
+                        <l>AND now this <hi>Tale,</hi> thus far being ended,</l>
+                        <l>Methinks I see some <hi>Folks</hi> offended,</l>
+                        <l>And 'gainst this <hi>Dogrel</hi> Poet rail,</l>
+                        <l>Because he've told so <hi>plain</hi> a Tale,</l>
+                        <l>And New and Old <hi>Stock,</hi> Jobbing Throng,</l>
+                        <l>
+                           <hi>Crying</hi> it down, be't <hi>right</hi> or <hi>wrong;</hi>
+                        </l>
+                        <l>But if they do, and away fling 'em,</l>
+                        <l>'Tis a great Sign, they're <hi>Truths</hi> that sting 'em.</l>
+                        <l>But let them spend their <hi>Lungs,</hi> and hollow,</l>
+                        <l>Such <hi>blustring</hi> Sparks he needs not value,</l>
+                        <l>Since all his <hi>aim,</hi> and his <hi>designs,</hi>
+                        </l>
+                        <l>Are to beat down their <hi>Indian</hi> Blinds,</l>
+                        <l>That all <hi>true English Men</hi> may see,</l>
+                        <l>What <hi>cause,</hi> their real Misery,</l>
+                        <l>That so they may prevent their <hi>ruin,</hi>
+                        </l>
+                        <l>And save this <hi>Nation</hi> from <hi>undoing:</hi>
+                        </l>
+                        <l>But if they still will shut their eyes,</l>
+                        <l>And <hi>demonstrations</hi> plain despise;</l>
+                        <l>And if his <hi>Tale</hi> shall be rejected,</l>
+                        <l>Or if this <hi>Cause</hi> be still neglected,</l>
+                        <lg>
+                           <l>He only this has more to say,</l>
+                           <l>That he can <hi>shift</hi> as well as they,</l>
+                           <l>And that he writ this, not for Pay.</l>
+                        </lg>
+                     </lg>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON:</hi> Printed, and are to be sold by <hi>A Baldwin</hi> in <hi>Warwick-Lane.</hi> 1699</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div n="2" type="part">
+                  <pb facs="tcp:186325:2"/>
+                  <head>Part II.</head>
+                  <head type="sub">
+                     <hi>Prince Butler's Queries</hi> Relating to The East-India Trade.</head>
+                  <list>
+                     <item>1. SInce some very good Friends, of both <hi>Old</hi> and <hi>New Stocks,</hi> are endeavouring, by all honest ways, together to joyn, and in order thereto, are <hi>Writing, Pleading,</hi> and <hi>Printing</hi> their Cases; and since <hi>Losers</hi> have always the Liberty to speak, why may not I as well <hi>Print</hi> and <hi>Plead</hi> my Case; For I am sure I have as much, <hi>nay more</hi> reason to do it than they?</item>
+                     <item>2. If these two contending <hi>Stocks</hi> be made one, and the <hi>English Manufacturers</hi> Case be not taken some care of, I can, without Star-gazing, plainly foresee, That they, and some <hi>other Folks,</hi> soon <hi>Ruin'd</hi> will be; And therefore pray, Mind what I say; If not for their sakes, for your own, be pleas'd to take care on't.</item>
+                     <item>3. Is it not much more demonstrable, That the <hi>East-India</hi> Trade is of greater advantage to <hi>England</hi> than 'twas two Years ago; For since that time, it has in a great measure Ruined the <hi>Canterbury Silk Trade,</hi> and obliged most of the <hi>London Silk Weavers, Throwsters,</hi> &amp;c. to give over their several Trades and Employments?</item>
+                     <item>4. Will not this be of great Advantage to all the <hi>Clothing Counties</hi> in <hi>England,</hi> because some of these poor People, rather than starve, are gone to <hi>Ireland,</hi> and set up Trade there; others fall'n to <hi>Comb, Card,</hi> and <hi>Spin;</hi> make <hi>Cloths, Stuffs</hi> and <hi>Serges;</hi> who being at the Principal Mar<g ref="char:EOLhyphen"/>ket, can make and sell them as well, or better, than the Country Weaver and Clothier can do?</item>
+                     <item>5. Does not Sir <hi>Jos. Child,</hi> who is well known to be Skilful in Trade, prove plainly, That the <hi>East-India</hi> Trade ought to be greatly Encouraged, when he tells us in Print,
+<note place="margin">Discourse of Trade. <hi>The Pre<g ref="char:EOLhyphen"/>face.</hi>
+                        </note> That <hi>the Expence of Foreign Commodities, especially Foreign Manufactures, is the worst Expence a Nation can be inclinable to, and ought to be prevented as much as possible?</hi>
+                     </item>
+                     <item>6. Has not the <hi>Author</hi> of the Essay on the <hi>E. India Trade,</hi> as sufficiently proved it Gainful, not only to us, but all <hi>Europe,</hi> when he tells us, <hi>They had been Richer by a full Third than they now are,</hi>
+                        <note place="margin">Essay on the <hi>East-India Trade</hi> page 14.</note>
+                        <hi>if that Trade had never been Discovered or Undertaken; and that it bears hard only upon those Countries that Consume those Commodities?</hi>
+                     </item>
+                     <item>7. Is it not plain, That it bears not hard upon <hi>England,</hi> since it could never be proved (and I <hi>challenge</hi> any now to do it) That we Consume at <hi>Home,</hi> in <hi>Ireland,</hi> or our <hi>Plantations,</hi> above nine parts in ten: Or that in Foreign Parts (except our Plantations, <hi>&amp;c</hi>) there are Consumed above one eighth part of the <hi>Wrought Silks, Bengals,</hi> and <hi>Printed Callicoes?</hi>
+                     </item>
+                     <item>8. Since 'tis allowed this Trade is hurtful to <hi>Europe,</hi> and all are agreed in a General Peace, What if they should agree to Banish it out of all their Dominions? But if not, Why should we restrain any part, Since <hi>we have nothing from thence of solid Use,</hi> (but) <hi>Materials for Luxury, and perishable Commodities, for our Gold and Silver, which is there buried,</hi> as the same <hi>Author</hi> tells us?
+<note place="margin">Page 12.</note>
+                     </item>
+                     <item>9. Is it not better we should be at four or five hundred thousand Pounds Charge <hi>per An.</hi> for <hi>In<g ref="char:EOLhyphen"/>dian Vanities,</hi> having such plenty of Money, than for the sake of imploying our own <hi>Poor,</hi> upon our own <hi>Wooll,</hi> disoblige several <hi>Maids</hi> and their <hi>Mistresses,</hi> who would then be at a loss how to Dress up <hi>themselves,</hi> their <hi>Chambers, Parlours,</hi> and <hi>Closets?</hi>
+                     </item>
+                     <item>10. Is it not our Interest (as the Essayer tells us) to wear these <hi>Indian</hi> Manufactures, because they would soon bring down the price of our own so low, <hi>That we may Export them to all Foreign Markets, and be able to under-sell all Nations;</hi> For (surely) they neither can,
+<note place="margin">Page 29.</note> or will ever think of falling in their Prices as we do.</item>
+                     <item>11. Or if they should, rather than leave off and <hi>starve,</hi> sell their Commodities as cheap as we, Pray what shall we get by this <hi>Learned Advice,</hi> since after all our Reducing, the <hi>Indians</hi> that Work for a Peny a Day, will outdo us all, unless we're resolv'd to Work as Cheap, or Cheaper than they?</item>
+                     <item>12. Will not the Falling the Prices reduce the Wages of the <hi>Poor,</hi> and by that means make the Nation grow <hi>Rich,</hi> since Sir <hi>Jos. Child</hi> has very well observed, <hi>That where ever Wages are high, throughout the whole World, it is an</hi> infallible <hi>Evidence of the Riches of that Country;</hi>
+                        <note place="margin">Preface.</note>
+                        <hi>And where Wages for Labour runs low, 'tis a proof of the Poverty of that Place?</hi>
+                     </item>
+                     <item>13. But if bringing down the Prices will be such an Advantage, Why may we not as well send for the <hi>Corn</hi> we spend to the <hi>East Country,</hi> for theirs is much cheaper than ours? And then we may send our own <hi>Corn</hi> with our own <hi>Cloth,</hi> &amp;c. to seek Abroad for a Market; Would not this soon Raise the Value of all the <hi>Rents</hi> and <hi>Lands</hi> in <hi>England?</hi>
+                     </item>
+                     <item>14. And to save yet the more, employ the <hi>Dutch Shipping,</hi> for they always Sail much cheaper than we do, and then we may send our own <hi>Ships</hi> to all Foreign Nations, that either want, or will hire them, or else save the Building of more, to the much greater Preservation of both our <hi>Seamen</hi> and <hi>Timber?</hi>
+                     </item>
+                     <item>15. And <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                  </list>
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1+ pages missing〉</desc>
+                  </gap>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
